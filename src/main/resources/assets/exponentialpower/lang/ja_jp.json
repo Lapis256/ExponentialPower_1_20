@@ -1,0 +1,11 @@
+{
+  "block.exponentialpower.advanced_ender_generator": "発展エンダージェネレーター",
+  "block.exponentialpower.advanced_ender_storage": "発展エンダーストレージ",
+  "block.exponentialpower.ender_generator": "エンダージェネレーター",
+  "block.exponentialpower.ender_storage": "エンダーストレージ",
+  "item.exponentialpower.ender_cell": "エンダーセル",
+  "item.exponentialpower.storage.tooltip.stored": "現在の蓄電量:",
+  "itemGroup.exponentialpower": "Exponential Power",
+  "screen.exponentialpower.generator_rate": "現在の発電量:",
+  "screen.exponentialpower.storage_total": "現在の蓄電量: %s/%s RF (%s%%)"
+}
